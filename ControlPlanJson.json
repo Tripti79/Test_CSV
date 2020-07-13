@@ -1,0 +1,39 @@
+{
+
+	"Control Element_Overall Critical Process variable Conditions": {
+		"Subject_Freezer Section 1 Temperature": {
+			"Measurement Attribute_Temperature Sensor 1": "Conform",
+			"Measurement Attribute_Temperature Sensor 2": "Conform"
+		},
+		"Subject_Freezer Section 2 Temperature": {
+			"Measurement Attribute_Temperature Sensor 3": "Conform",
+			"Measurement Attribute_Temperature Sensor 4": "Conform"
+		},
+		"Subject_Freezer Section 1 Humidity": {
+			"Measurement Attribute_Humidity Sensor 1": "Conform"
+		},
+		"Subject_Freezer Section 2 Humidity": {
+			"Measurement Attribute_Humidity Sensor 2": "Conform"
+		}
+	},
+	"Control Element_Overall Freezer Oxygen Level Conditions": {
+		"Subject_Freezer Section 1 Oxygen Level": {
+			"Measurement Attribute_Oxygen Level Sensor 1": "Conform",
+			"Measurement Attribute_Oxygen Level Sensor 2": "Conform"
+		},
+		"Subject_Freezer Section 2 Oxygen Level": {
+			"Measurement Attribute_Oxygen Level Sensor 3": "Conform"
+		}
+	},
+	"Control Element_Overall Motor Operating Conditions": {
+		"Subject_Freezer Motor1 Health": {
+			"Measurement Attribute_Noise Level Sensor 1": "Conform"
+		},
+		"Subject_Freezer Motor2 Health": {
+			"Measurement Attribute_Noise Level Sensor 2": "Conform"
+		},
+		"Subject_Freezer Motor3 Health": {
+			"Measurement Attribute_Noise Level Sensor 3": "Conform"
+		}
+	}
+}
